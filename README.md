@@ -93,3 +93,11 @@ Lab 4: Create DAX calculations – added calculated columns and measures.
 Lab 8: Design Power BI reports – built an interactive, multi‑visual report with slicers and filters.
 
 Each lab was completed on Skillable (LeepTalent LearnOnDemand) and verified with screenshots submitted to the collaboration board.
+
+Dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiZjJjZjBmMjUtZjljYi00ZjZhLWEwMTYtZGYxMjAyMjc4OWM4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+
+
+<img width="1419" height="777" alt="image" src="https://github.com/user-attachments/assets/88370e01-c6fb-48e6-bbac-9c0c2f469b34" />
+
